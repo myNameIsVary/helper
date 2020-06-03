@@ -1,10 +1,4 @@
 <?php
-/**
- * @Tool       : VsCode.
- * @Date       : 2020-03-16 00:50:15
- * @Author     : rxm rxm@wiki361.com
- * @LastEditors: rxm rxm@wiki361.com
- */
 
 /**
  * achieved get user input like php -a
